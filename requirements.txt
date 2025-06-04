@@ -1,0 +1,6 @@
+feedparser
+requests
+readchar
+
+wxPython
+readability-lxml
